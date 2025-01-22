@@ -16,7 +16,7 @@ Une API simple et efficace pour gérer les tâches (ToDo) construite avec FastAP
 ## Comment Exécuter
 Clonez ce dépôt:
 
-git clone https://github.com/votre-utilisateur/votre-repository.git
+git clone https://git@github.com:kingsonPaxe/ToDoList.git
 Installez les dépendances nécessaires:
 pip install -r requirements.txt
 Démarrez le serveur:
